@@ -1,2 +1,2 @@
 # test2
-testrepo
+testrepo for git commands demostration
